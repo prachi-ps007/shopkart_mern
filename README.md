@@ -14,19 +14,21 @@ The design draws inspiration from archival fashion catalogues and private collec
 
 An editorial-style storefront featuring curated product highlights, framed imagery, and an elegant shopping interface.
 
-![Loom & Jade Homepage](screenshots/homepage.png)
+<img width="1891" height="1021" alt="image" src="https://github.com/user-attachments/assets/2ce10394-0517-4a99-aba5-dc857416a0d1" />
+
 
 ### Product Catalogue
 
 Explore products across categories with search, filtering, product details, and inventory information.
 
-![Loom & Jade Product Catalogue](screenshots/products.png)
+<img width="1890" height="1013" alt="image" src="https://github.com/user-attachments/assets/b2bf8641-5496-4381-b75f-98370ef0858e" />
+
 
 ### The Private Collection — Wishlist
 
 A personalized space where customers can save products and revisit their selections.
+<img width="1881" height="1011" alt="image" src="https://github.com/user-attachments/assets/4a0dc370-76cf-47f1-92ed-37dcea6b7fa9" />
 
-![Loom & Jade Wishlist](screenshots/wishlist.png)
 
 > **Note:** Add your screenshots to a `screenshots/` folder in the repository using the filenames shown above, or update these paths to match your actual image files.
 
